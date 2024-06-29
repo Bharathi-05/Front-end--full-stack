@@ -1,0 +1,21 @@
+Getting Started Easy
+
+Display the text "Welcome to the world of Web development" on the screen 
+Acceptance Criteria: - The text should be inside the < code > div < /code> tag. - 
+Add id=< code>text< /code> for the div tag.
+
+Output Format
+
+The text should be inside the < div> tag.
+Add id="text" for the internal < div> tag.
+Constraints
+
+The HTML should enclosed in a < div> tag.
+
+CODE
+<!-- Write your HTML Code here  -->
+<code>
+    <div id="text">
+        Welcome to the world of Web development
+    </div>
+</code>
